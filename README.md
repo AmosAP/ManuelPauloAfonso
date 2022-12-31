@@ -1,6 +1,6 @@
 ### Hello!👋
 - You are welcome!🚀
-### Front-end developer with a keen eye for detail and a determination to deliver the highest quality. I am very proud of my work and I always try to improve myself with each project I work on. The main areas of my expertise are HTML(5), CSS(3), JavaScript , ReactJs . | 💜 💻 🚀.
+- Front-end developer with a keen eye for detail and a determination to deliver the highest quality. I am very proud of my work and I always try to improve myself with each project I work on. The main areas of my expertise are HTML(5), CSS(3), JavaScript , ReactJs . | 💜 💻 🚀.
 
 - 👨‍💻 Today I have been studying and specializing. in Front-end and mobile development.
 
